@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Here is the website Link pushed to Heroku: https://react-testing-sales.herokuapp.com/Sales
+
+Here is the preview video of this website: https://www.youtube.com/watch?v=aBaUeuWgGhY&feature=youtu.be
+
+
 ## Available Scripts
 
 In the project directory, you can run:
