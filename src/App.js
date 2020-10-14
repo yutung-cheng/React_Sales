@@ -33,7 +33,7 @@ class App extends Component {
       }));
   };
 
-  updateSearchId = e => this.setState({ [e.target.name]: e.target.value });
+  updateSearchId = e => this.setState({ searchId: e.target.value });
 
   render() {
     if (this.props.location.pathname === "/")
